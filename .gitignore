@@ -1,0 +1,7 @@
+# Ignore assignment PDF
+*.pdf
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
